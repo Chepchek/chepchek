@@ -1,6 +1,6 @@
-## **Junior python developer**
+### **Junior python developer**
 
-## **Programming experience of at least two years**
+### **Programming experience of at least two years**
 
 ### Specializing: 
 
