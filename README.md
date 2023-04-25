@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 **Junior python developer**
+
 ** Experience:  2 years **
+
 ### Specializing: 
 
 - Telegram bots
