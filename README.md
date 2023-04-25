@@ -15,4 +15,5 @@
 - Frondend [ Vue3 (Partially) - Axios, Vue Router, VueX ]
 
 - 📫 How to reach me:
-  > Telegram only: https://t.me/UserNotZFound
+- 
+- Telegram only: https://t.me/UserNotZFound
