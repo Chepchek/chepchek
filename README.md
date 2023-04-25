@@ -4,13 +4,13 @@
 - Experience:  2 years
 - Specializing: 
 
--- Telegram bots
+- Telegram bots
 
--- API
+- API
 
--- Backend [ FastAPI, Django\DRF, AioHttp ]
+- Backend [ FastAPI, Django\DRF, AioHttp ]
 
--- Frondend [ Vue3 (Partially) - Axios, Vue Router, VueX ]
+- Frondend [ Vue3 (Partially) - Axios, Vue Router, VueX ]
 
 - 📫 How to reach me:
   > Telegram only: https://t.me/UserNotZFound
