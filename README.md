@@ -1,30 +1,36 @@
-<h1 align="center">Hi, I'm Chepchek 👋</h1>
+<h2 align="left">Hi 👋! I'm Chepchek, a Middle Python developer</h2>
 
-<p align="center">
-  <b>Middle Python developer</b> — backend services, APIs and Telegram bots
-</p>
+<p align="left">Backend services, APIs and Telegram bots — with a bit of Vue on the frontend and MicroPython on ESP32.</p>
 
----
+###
 
-### 🛠 What I do
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo" title="FastAPI" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/django/white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo" title="Django / Django REST Framework" />
+  </picture>
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/aiohttp" height="30" alt="aiohttp logo" title="aiohttp" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/telegram" height="30" alt="telegram logo" title="Telegram bots (aiogram)" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vue logo" title="Vue 3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" height="30" alt="axios logo" title="Axios" />
+  <img width="12" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/micropython/white" />
+    <img src="https://cdn.simpleicons.org/micropython" height="30" alt="micropython logo" title="MicroPython" />
+  </picture>
+</div>
 
-- **Backend** — REST APIs and services on FastAPI, Django / DRF and aiohttp
-- **Telegram bots** — asynchronous bots on aiogram
-- **Frontend** — Vue 3 with Vue Router, Vuex and Axios
-- **Hardware** — MicroPython on ESP32
+###
 
-### 🧰 Tech stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white)
-![aiohttp](https://img.shields.io/badge/aiohttp-2C5BB4?style=flat&logo=aiohttp&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-26A5E4?style=flat&logo=telegram&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white)
-
-### 📌 Projects
+<h3 align="left">📌 Projects</h3>
 
 | Project | Description |
 | --- | --- |
